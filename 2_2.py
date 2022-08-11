@@ -1,4 +1,4 @@
-#Importing numpy, scipy, mpmath and pyplot
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -6,8 +6,6 @@ import matplotlib.pyplot as plt
 import subprocess
 import shlex
 #end if
-
-
 
 x = np.linspace(-4,4,30)#points on the x axis
 simlen = int(1e6) #number of samples
